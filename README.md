@@ -19,6 +19,10 @@ git clone https://github.com/maur32/google-ads-scrapper.git
 
 cd google-ads-scrapper
 
+#Instale as dependências
+
+npm install
+
 # Execute o arquivo scrapper.js
 
 node scrapper.js
