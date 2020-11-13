@@ -1,0 +1,124 @@
+{
+ "heading": "Hospedagem de Sites: HostGator - Com 40% Off e Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "Google Hospedagem Site - Teste Hospedagem Google Grátis",
+ "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjqnZHAz4DtAhVMBJEKHUNCDmwYABACGgJjZQ&sig=AOD64_2WRYEf84Ox15HYRqsWEGllrjZ5yg&adurl=&q="
+},{
+ "heading": "Domínio e SSL Grátis - Hospedagem De Sites",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+},{
+ "heading": "trivago™ Hospedagem em Hotéis - Compare Hotéis e economize",
+ "link": "https://www.trivago.com.br/?themeId=260&iPathId=33408"
+},{
+ "heading": "Hospedagem de sites - UOL Host",
+ "link": "https://uolhost.uol.com.br/hospedagem-de-sites.html"
+},{
+ "heading": "Hospedagem - Hospedagem para Site e Email",
+ "link": "https://umbler.com/"
+}{
+ "heading": "Hospedagem de Sites: HostGator - Com 40% Off e Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "Google Hospedagem Site - Teste Hospedagem Google Grátis",
+ "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjJ9NLAz4DtAhWCEZEKHaZtDuQYABACGgJjZQ&sig=AOD64_36IseYW3j_smb2vHRwsWHT3UI4RQ&adurl=&q="
+},{
+ "heading": "Hospedagem De Sites - Seu Site Hospedado na Locaweb",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+},{
+ "heading": "10 Melhores Hosts em 2020 - Hospede seu Site Quase Grátis",
+ "link": "https://www.top10bestwebsitehosting.com/br-comparison"
+},{
+ "heading": "Hospedagem para Sites - Sites com Alta Performance",
+ "link": "https://configr.com/cloud-hosting-alta-performance/?utm_campaign=google_search-lp-php&utm_medium=cpa&utm_source=google_search&utm_content=php&utm_term=%7Bkeyword%7D_%7Bmatchtype%7D"
+},{
+ "heading": "Hospedagem de Site KingHost - Junte-se à 300 Mil sites",
+ "link": "https://king.host/hospedagem-de-sites"
+},{
+ "heading": "Quer Montar a VPS Ideal? - Nosso Diferencial é o Suporte",
+ "link": "https://www.turbosite.com.br/"
+}{
+ "heading": "Hospedagem de Sites: HostGator - Com 40% Off e Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "10 Melhor Hospedagem de Site - Nossas Opções Ideais Para 2020",
+ "link": "https://www.top10bestwebsitehosting.com/br-comparison"
+},{
+ "heading": "Seu Site Hospedado na Locaweb - Hospedagem a Partir de...",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+},{
+ "heading": "Hospedagem de Sites | Suporte 24h por dia e Criador de Site grátis",
+ "link": "https://king.host/hospedagem-de-sites"
+},{
+ "heading": "Como hospedar um site: veja o passo a passo completo",
+ "link": "https://www.melhorhospedagemdesites.com/hospedagem-de-sites/como-hospedar-um-site/"
+},{
+ "heading": "Segurança e Muitas Vantagens - Hospedagem de Site com...",
+ "link": "https://www.terraempresas.com.br/hospedagem-site/"
+},{
+ "heading": "Hospedagem de Site com 60% Off - Domínio e SSL Grátis",
+ "link": "https://www.hostmidia.com.br/hospedagem-de-sites/"
+}{
+ "heading": "Hospedagem de Sites: HostGator - Com 40% Off e Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "Seu Site Hospedado na Locaweb - Hospedagem a Partir de...",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+},{
+ "heading": "10 Melhor Hospedagem de Site - Nossas Opções Ideais Para 2020",
+ "link": "https://www.top10bestwebsitehosting.com/br-comparison"
+},{
+ "heading": "Hospedagem de Sites | Suporte 24h por dia e Criador de Site grátis",
+ "link": "https://king.host/hospedagem-de-sites"
+}{
+ "heading": "Hospedagem de Site com 40% Off - Com 1 Ano de Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "Hospedagem a Partir de R$9,90 - Hospedagem De Sites",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+},{
+ "heading": "Hospedagem de Sites | Suporte 24h por dia e Criador de Site grátis",
+ "link": "https://king.host/hospedagem-de-sites"
+}{
+ "heading": "Hospedagem de Sites: HostGator - Com 40% Off e Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "Hospedagem de Sites | Suporte 24h por dia e Criador de Site grátis",
+ "link": "https://king.host/hospedagem-de-sites"
+},{
+ "heading": "Hospedagem Sem Comparação - Com Domínio e Criador de Sites",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+},{
+ "heading": "10 Melhor Hospedagem de Site - Nossas Opções Ideais Para 2020",
+ "link": "https://www.top10bestwebsitehosting.com/br-comparison"
+}{
+ "heading": "Hospedagem de Sites: HostGator - Com 40% Off e Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "Hospedagem de Sites | Suporte 24h por dia e Criador de Site grátis",
+ "link": "https://king.host/hospedagem-de-sites"
+},{
+ "heading": "Seu Site Hospedado na Locaweb - Hospedagem a Partir de...",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+}{
+ "heading": "Hospedagem de Site com 40% Off - Com 1 Ano de Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "10 Melhor Hospedagem de Site - Nossas Opções Ideais Para 2020",
+ "link": "https://www.top10bestwebsitehosting.com/br-comparison"
+},{
+ "heading": "Hospedagem Sem Comparação - Com Domínio e Criador de Sites",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+}{
+ "heading": "Hospedagem de Sites: HostGator - Com 40% Off e Domínio Grátis",
+ "link": "https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso"
+},{
+ "heading": "Seu Site Hospedado na Locaweb - Hospedagem a Partir de...",
+ "link": "https://www.locaweb.com.br/hospedagem-de-sites-com-dominio-gratis/"
+},{
+ "heading": "Hospedagem de Sites | Suporte 24h por dia e Criador de Site grátis",
+ "link": "https://king.host/hospedagem-de-sites"
+},{
+ "heading": "10 Melhor Hospedagem de Site - Nossas Opções Ideais Para 2020",
+ "link": "https://www.top10bestwebsitehosting.com/br-comparison"
+}
